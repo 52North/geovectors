@@ -6,19 +6,11 @@ build-backend = "setuptools.build_meta"
 name = "geovectorslib"
 version = "1.03"
 description = "Vectorized geodesic calculations."
-
 license = "MIT"
-
 authors = [
   { name="52N authors", email="info@52north.org" },
 ]
-
 readme = "README.md"
-
-homepage = "https://pypi.org/project/geovectorslib"
-documentation = "https://geovectorslib.readthedocs.io"
-repository = "https://github.com/omdv/geovectors"
-
 keywords = [
 ]
 classifiers = [
