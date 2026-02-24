@@ -9,7 +9,9 @@ description = "Vectorized geodesic calculations."
 
 license = "MIT"
 
-authors = ["Oleg Medvedev <omdv.public@gmail.com>"]
+authors = [
+  { name="52N authors", email="info@52north.org" },
+]
 
 readme = "README.md"
 
